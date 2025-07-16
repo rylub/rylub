@@ -1,6 +1,6 @@
 # Ryan Lubell
 
-I'm a QA/Data Analyst and Python Developer focused on building clean, testable pipelines for automated data validation, cleaning, and reporting. My background in design and marketing taught me how to ship projects efficiently and communicate clearly, skills I now apply to building and testing data workflows that actually work.
+I'm a QA/Data Analyst and Python Developer focused on building clean, testable pipelines for automated data validation, cleaning, and reporting. My background in design and marketing taught me how to ship projects efficiently and communicate clearly — skills I now apply to building and testing data workflows that actually work.
 
 Currently, I’m building tools that leverage Python, pandas, and APIs to automate repetitive validation tasks and support better decision-making. I care about clear structure, readable code, and testing everything before it goes out the door.
 
@@ -17,12 +17,14 @@ Currently, I’m building tools that leverage Python, pandas, and APIs to automa
 
 ## Certifications
 
-- Automate the Boring Stuff with Python
-- Complete SQL Bootcamp
+- Automate the Boring Stuff with Python  
+- Complete SQL Bootcamp  
 - Data Analysis with pandas and Python
 
 ## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/ryan-lubell)
+- [LinkedIn](https://www.linkedin.com/in/ryan-lubell)  
+- [Notion Portfolio – Full Portfolio & Resume](https://www.notion.so/Ryan-Lubell-QA-Data-Python-Portfolio-2310281aa0dd8019a6b3d202b7990f00)  
+- [Email](mailto:lubellryan@gmail.com)
 
 If you're working on projects involving data validation, automated QA, or want to discuss building cleaner pipelines, feel free to reach out.
