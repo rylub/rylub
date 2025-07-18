@@ -14,6 +14,9 @@ Currently, I’m building tools that leverage Python, pandas, and APIs to automa
 
 - **[Data Validation Tool](https://github.com/rylub/data-validation-tool)**  
   Scripted pipeline for cleaning, validating, and visualizing structured CSV datasets, using pandas and matplotlib.
+  
+- **[Spotify Dashboard](https://github.com/rylub/spotify-dashboard)**
+  OAuth-powered dashboard that analyzes your recent Spotify listening history using Streamlit, pandas, and the Spotify Web API. Features interactive charts and artist/track breakdowns.
 
 ## Certifications
 
